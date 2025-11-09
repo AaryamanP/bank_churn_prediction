@@ -7,15 +7,12 @@ __pycache__/
 
 # Jupyter Notebooks
 .ipynb_checkpoints/
-*.ipynb
 
 # Data files
-*.csv
 *.tsv
 *.xlsx
 *.xls
 *.parquet
-*.h5
 *.db
 *.sqlite
 
@@ -36,9 +33,6 @@ Thumbs.db
 *.log
 
 # Model files
-*.pkl
-*.joblib
-*.h5
 
 # Misc
 *.bak
